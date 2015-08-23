@@ -1,0 +1,9 @@
+the text
+'<0',24,'all paid',new car,10000,'500<=X<1000',>=7,20,male single,guarantor,4,real estate,30,bank,own,0,high qualif,2,none,none
+'<0',24,'all paid',new car,10000,'500<=X<1000',>=7,20,male single,guarantor,4,real estate,30,bank,own,0,high qualif,2,none,none
+'<0',24,'all paid',new car,10000,'500<=X<1000',>=7,20,male single,guarantor,4,real estate,30,bank,own,0,high qualif,2,none,none
+'<0',24,'all paid',new car,10000,'500<=X<1000',>=7,20,male single,guarantor,4,real estate,30,bank,own,0,high qualif,2,none,none
+'<0',24,'all paid',new car,10000,'500<=X<1000',>=7,20,male single,guarantor,4,real estate,30,bank,own,0,high qualif,2,none,none
+'<0',24,'all paid',new car,10000,'500<=X<1000',>=7,20,male single,guarantor,4,real estate,30,bank,own,0,high qualif,2,none,none
+'<0',24,'all paid',new car,10000,'500<=X<1000',>=7,20,male single,guarantor,4,real estate,30,bank,own,0,high qualif,2,none,none
+'<0',24,'all paid',new car,10000,'500<=X<1000',>=7,20,male single,guarantor,4,real estate,30,bank,own,0,high qualif,2,none,none,good
